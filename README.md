@@ -4,11 +4,14 @@ This project is a retooling of the CHEMTAX methods originally implemented in MAT
 
 ## Planning
 1. user input
-    1. pigment data table (csv file) - one sample per row, one pigment per column
-    2. list of taxa present
+    1. samples pigment data table
+        1. (csv file) - one sample per row, one pigment per column 
+        2. or seabass file?
+    3. list of taxa present
         1. (extra feature?) Would a taxa liklihood value be useful here? What about a taxa co-occurence matrix?
     4. (extra feature?) include/exclude specific pigment columns
-    5. (optional) random starter seed(s)
+    5. (optional) matrix init random seed(s)
+    6. (optional) custom pigment-ratio-to-taxa matrix
 3. run multiple solutions starting from different randomized input matricies
     1. (optional) show graphical representation of convergence
 4. results
