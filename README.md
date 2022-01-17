@@ -2,6 +2,8 @@
 
 This project is a retooling of the CHEMTAX methods originally implemented in MATLAB (v1), then again released as a standalone software working with excel files ([v1.95](https://data.aad.gov.au/metadata/records/CHEMTAX)).
 
+[![Open a demo with myBinder.org](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USF-IMARS/chemtax/HEAD)
+
 ## Planning
 1. user input
     1. samples pigment data table
