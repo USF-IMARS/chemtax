@@ -1,0 +1,12 @@
+name: chemtax_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - matplotlib~=3.5.1
+    - pandas~=1.3.3
+    - parse~=1.19.0
+
