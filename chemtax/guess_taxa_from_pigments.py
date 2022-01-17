@@ -1,3 +1,5 @@
+import pandas
+
 def guess_taxa_from_pigments(pigment_dataframe, taxa_list, pigment_exclude=[], matrix_init_seed=0): 
     """
     params:
@@ -14,3 +16,5 @@ def guess_taxa_from_pigments(pigment_dataframe, taxa_list, pigment_exclude=[], m
     returns:
     -------
     pandas.DataFrame of taxa occurrence estimates    
+    """
+    return pandas.DataFrame()
