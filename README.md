@@ -6,7 +6,7 @@ This project is a retooling of the CHEMTAX methods originally implemented in MAT
 
 ## Planning
 1. user input
-    0. cluster sample rows into similar environments (like depth ranges) before running 
+    1. cluster sample rows into similar environments (like depth ranges) before running 
         1. (optional) auto-cluster
         2. (optional) allow selection of cluster groups 
     2. samples pigment data table (all data goes in, but the cluster is what we are focusing on)
