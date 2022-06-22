@@ -2,6 +2,12 @@
 
 This project is a retooling of the CHEMTAX methods originally implemented in MATLAB (v1), then again released as a standalone software working with excel files ([v1.95](https://data.aad.gov.au/metadata/records/CHEMTAX)).
 
+This repo contains general information and is used for planning around the CHEMTAX-IMaRS collaboration.
+
+Other relevant repos:
+* [chemtax-r](TODO: sebastian's link here) : R port of CHEMTAX
+* [chemtax-shiny-gui](https://github.com/USF-IMARS/chemtax-shiny-gui) GUI to help with using chemtax
+
 [![Open a demo with myBinder.org](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USF-IMARS/chemtax/HEAD)
 
 ## Planning
