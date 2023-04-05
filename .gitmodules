@@ -1,0 +1,3 @@
+[submodule "rCHEMTAX"]
+	path = rCHEMTAX
+	url = git@github.com:sebastiandig/rCHEMTAX.git
